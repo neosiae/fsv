@@ -1,0 +1,7 @@
+[package]
+name = "fsv"
+version = "0.1.0"
+authors = ["Denis Kotlica <neosiae@gmail.com>"]
+edition = "2018"
+
+[dependencies]
